@@ -13,7 +13,7 @@ Hi, I'm Mohammad Hossein Jafari! I'm a Machine Learning Engineer with a passion 
 - ⚡ Fun fact: I can't turn on My computer without Coffee.
 
 ## My GitHub Stats
-!Jafariai(https://github-readme-stats.vercel.app/api?username=jafariai&show_icons=true&theme=radical)
+![Your Username's GitHub stats](https://github-readme-stats.vercel.app/api?username=jafariai&show_icons=true&theme=radical)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jafariai&layout=compact&theme=radical)
