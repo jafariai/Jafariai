@@ -30,11 +30,8 @@ hosein.jafariai@gmail.com
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jafariai&layout=compact&theme=)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+<br>
 ## Make me Happy😄:
 <p><a href="https://www.buymeacoffee.com"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="" /></a>
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
