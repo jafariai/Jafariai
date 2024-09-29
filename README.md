@@ -18,6 +18,10 @@ Hi, I'm Mohammad Hossein Jafari! I'm a Machine Learning Engineer with a passion 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jafariai&layout=compact&theme=radical)
 
+
+Make me Happy 😄:
+<p><a href="https://www.buymeacoffee.com"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mmohajer9" /></a><a href="https://ko-fi.com"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mmohajer9" /></a></p><br><br>
+
 ## Connect with Me
 hosein.jafariai@gmail.com
 t.me/jafariai
