@@ -37,4 +37,4 @@ hosein.jafariai@gmail.com
 
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S)   ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
