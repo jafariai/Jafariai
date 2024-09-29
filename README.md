@@ -29,5 +29,4 @@ Make me Happy 😄:
 
 ## Connect with Me
 hosein.jafariai@gmail.com
-
-t.me/jafariai
+[t.me/jafariai](https://t.me/jafariai)
