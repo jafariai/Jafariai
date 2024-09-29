@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourUsername&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=jafariai&color=green)
 
 ## About Me
 Hi, I'm Mohammad Hossein Jafari! I'm a Machine Learning Engineer with a passion for AI. I love working on Large Language Models and Financial Markets and constantly learning new things.
