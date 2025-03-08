@@ -23,8 +23,7 @@ hosein.jafariai@gmail.com
 <br></br>
   
 ## My GitHub Stats
-![Your Username's GitHub stats](https://github-readme-stats.vercel.app/api?username=jafariai&show_icons=true&theme=) 
-
+![jafariai's GitHub stats](https://github-readme-stats.vercel.app/api?username=jafariai&show_icons=true&theme=radical)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jafariai&layout=compact&theme=)
