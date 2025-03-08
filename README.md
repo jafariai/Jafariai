@@ -26,10 +26,9 @@ hosein.jafariai@gmail.com
 ![jafariai's GitHub stats](https://github-readme-stats.vercel.app/api?username=jafariai&show_icons=true&theme=radical)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jafariai&layout=compact&theme=)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jafariai&layout=compact&theme=radical)
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jafariai)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br></br>
 ## Make me Happy😄:
