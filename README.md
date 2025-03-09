@@ -30,8 +30,8 @@ hosein.jafariai@gmail.com
 </div>
 
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jafariai&no-bg=true&no-frame=true)]
+<br></br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=jafariai&no-bg=true)]
 
 <br></br>
 ## Make me Happy😄:
