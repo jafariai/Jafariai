@@ -31,7 +31,7 @@ hosein.jafariai@gmail.com
 
 
 <br></br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=jafariai&no-bg=true)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=jafariai&theme=onestar)]
 
 <br></br>
 ## Make me Happy😄:
