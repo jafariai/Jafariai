@@ -26,12 +26,12 @@ hosein.jafariai@gmail.com
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px;">
   <img src="https://github-readme-stats.vercel.app/api?username=jafariai&show_icons=true&theme=radical" alt="jafariai's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafariai&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafariai&layout=compact&theme=radical" alt="Top Languages" style="margin-left:20px;" />
 </div>
 
 
 <br></br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=jafariai&theme=onestar)]
+![trophy](https://github-profile-trophy.vercel.app/?username=jafariai&theme=onestar)
 
 <br></br>
 ## Make me Happy😄:
