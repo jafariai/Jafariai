@@ -24,13 +24,14 @@ hosein.jafariai@gmail.com
   
 ## My GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 30px;">
   <img src="https://github-readme-stats.vercel.app/api?username=jafariai&show_icons=true&theme=radical" alt="jafariai's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafariai&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jafariai)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jafariai&no-bg=true&no-frame=true)]
 
 <br></br>
 ## Make me Happy😄:
